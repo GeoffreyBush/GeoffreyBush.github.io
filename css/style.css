@@ -5,6 +5,13 @@ nav {
     justify-content: space-between;
 }
 
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
 nav a {
     color: black;
     text-decoration: none;
